@@ -1,6 +1,6 @@
 /*
  * CSCI 392
- * HW07 - Histogram Class
+ * HW07 - Green Screen
  * Peter Nguyen
  * Due: Oct. 10, 2017
  */
