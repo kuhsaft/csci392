@@ -1,6 +1,6 @@
 /*
  * CSCI 392
- * HW05 - Histogram Class
+ * HW06 - Vertical Histogram
  * Peter Nguyen
  * Due: Sept. 27, 2017
  */
