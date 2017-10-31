@@ -1,4 +1,4 @@
-## Program 3
+## Homework 4
 #### Due Wednesday, Sept. 20
 
 ------------------------------

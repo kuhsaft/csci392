@@ -1,4 +1,4 @@
-## Program 1
+## Homework 1
 #### Due Wednesday, Aug. 30
 
 ------------------------------

@@ -1,4 +1,4 @@
-## Program 3
+## Homework 7
 #### Due Wednesday, Oct. 11
 
 ------------------------------
@@ -23,5 +23,5 @@ Required error checking:
 
 What to Turn In
 ------------------------------
-Email your program's source code to dannellys@winthrop.edu by the beginning of class on Wednesday Oct 4. Again, please
+Email your program's source code to dannellys@winthrop.edu by the beginning of class on Wednesday Oct 11. Again, please
 use the subject line, "CSCI 392 - HW07". 
